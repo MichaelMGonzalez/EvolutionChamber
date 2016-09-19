@@ -1,0 +1,3 @@
+[submodule "Assets/UnityUtilities"]
+	path = Assets/UnityUtilities
+	url = git@github.com:MichaelMGonzalez/UnityUtilities.git
